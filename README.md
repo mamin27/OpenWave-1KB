@@ -191,7 +191,8 @@ Screenshot
 
 ## Not goals:
 - GUI.  pyQT5 is a mystery to me.  (Maybe later?)
-- Mac OS. Windows OS.  No skills and I don't need these.  RPi is a future goal.
+- Mac OS. Windows OS.  No skills and I don't need these.  Removed the .exe file
+- RPi is a future goal.
 - LAN connection mode.  My o-scope doesn't support this.
 - Testing multiple GDS models.  I've only got GDS-1202B
 - Run speed.  Speed is likely constrained by reads from the o-scope.
