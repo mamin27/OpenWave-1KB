@@ -175,3 +175,18 @@ Screenshot
 
 **Screenshot -- Raspbian on Raspberry Pi 2:**
 ![Raspbian Linux](/image/RPi2_Screenshot.jpg)
+
+** So, you've scrolled to the bottom.  Thanks for reading. **
+
+** Goals of this fork: **
+- Serial USB connection is unstable with GDS-1202B and Linux system.  Improve stablility of the COM (ttyACM0) code.
+- Source code housekeeping, Reduce some of the pylint warnings.
+- Improve error handling.
+- Allow for COM port selection and reconnect.
+- Rework some of the SCPI calls to be more modular and readable.
+- Add some new features for instrument control (TBD).
+
+** Not goals: **
+- GUI.  pyQT5 is a mystery to me.  (maybe learning)
+- Mac OS. Windows OS.  No skills and I don't need these
+- Testing multiple GDS models.  I've only got GDS-1202B
