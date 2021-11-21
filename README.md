@@ -178,6 +178,8 @@ Screenshot
 
 ### So, you've scrolled to the bottom.  Thanks for reading.
 
+## Nothing done yet.  Project is getting started.
+
 ## Goals of this fork:  (no promises)
 - Improve stablility of the COM (ttyACM0) interface. USB-serial connection is unstable with GDS-1202B scope and a Linux system.
 - Source code housekeeping, Reduce some of the many pylint warnings.
