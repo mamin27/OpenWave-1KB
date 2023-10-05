@@ -1,7 +1,7 @@
 OpenWave-1KB
 ============
 
-**Dont forget to add ![star](/image/star.jpg) if you were satisfy with the software!**
+**Dont forget to add ![star](/image/star.png) if you were satisfy with the software!**
 
 ![GetImage](/image/OpenWave256x256.jpg)
 
