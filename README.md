@@ -1,5 +1,8 @@
 OpenWave-1KB
 ============
+
+**Dont forget to add ![star](/image/star.jpg) if you were satisfy with the software!**
+
 ![GetImage](/image/OpenWave256x256.jpg)
 
 This icon is copyright by Good Will Instrument Co., Ltd all rights reserved.
